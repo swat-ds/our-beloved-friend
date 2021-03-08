@@ -1,4 +1,4 @@
-# :books: The Journals of John Hunt (1770-1824) :books:
+# :books: The Journals of John Hunt (1770-1824) :books: :books:
 
 Following William Penn’s advice, John Hunt kept a journal for over half a century, beginning in 1770 and ending shortly before his death in 1824. [This original work, penned in his own hand, is in the collections of Friends Historical Library](http://archives.tricolib.brynmawr.edu/resources/5240johu).
 
