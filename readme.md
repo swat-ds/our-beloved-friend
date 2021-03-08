@@ -11,5 +11,3 @@ Friends Historical Library and Digital Scholarship at Swarthmore College are cur
 - Interactive digital edition
 
 As part of the project, this repository consists of initial text representations of the transcribed journals, TEI marked up transcripts, derived data, and documentation.
-
-testcommit
