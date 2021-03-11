@@ -9,9 +9,11 @@ For the purposes of this project we will be keeping a list of personal names. In
 
 \<persName key="w6c82qz0"\>Joshua Evans\</persName\>
 
-If you suspect a misspelling, retain the same spelling in the document and add it to the variant name column in the person list
-
 If possessive is used, put inside of the persName brackets
+
+Do not tag names that occur within the \<note\> tag. 
+
+Also, be careful about multiple people with the same name! John Hunt's social circle consisted of a few families, and they tended to reuse names heavily. Be particularly careful with initials (for example, "J. Hunt" could refer to John Hunt or to his brother Joshua Hunt). If you aren't sure who a name refers to, don't tag it.
 
 Goal 2. Document Structure
 ==========================
