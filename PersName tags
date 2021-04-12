@@ -2,33 +2,40 @@
 <persName key="w6wx87x7">my wife</persName>
 <persName key="w6wx87x7">My wife</persName>
 <persName key="w6wx87x7">Esther Hunt</persName>
+([Ee]sther Hunt's?|[Ee]sther Hunt['s]?|[Mm]y wife's?|[Mm]y wife['s]?)
 
 #Joshua Evans
 <persName key="w6c82qz0">Joshua Evans</persName>
 <persName key="w6c82qz0">J. Evans</persName>
 <persName key="w6c82qz0">J. Ev</persName>
+([Jj]oshua [Ee]vans'?|[Jj]. Evans'?|[Jj]oshua [Ee]vans['s]?|[Jj]. Evans['s]?)
 
 # William Rogers
 <persName key="w6fv9b6q">William Rogers</persName>
+([Ww]illiam Roger's?|[Ww]. Rogers'?|[Ww]illiam [Rr]oger['s]?|[Ww]. Roger's?|[Ww]. Roger['s]?)
 
 # John Simpson
 <persName key="w68m543d">John Simpson</persName>
 <persName key="w68m543d">J. Simpson</persName>
+([Jj]ohn [Ss]impson's?|[Jj]. [Ss]impson's?|[Jj]. [Ss]impson's?|[Jj]. Simpson['s]?)
 
 # John Collins
 <persName key="w6165774">John Collins</persName>
 <persName key="w6165774">J. Collins</persName>
+([Jj]ohn Collins'?|[Jj]ohn [Cc]ollins['s]?|[Jj]. Collins'?|[Jj]. Collins['s]?)
 
 # Robert Willis
 <persName key="w6zw3s78">Robert Willis</persName>
 <persName key="w6zw3s78">Robert Wilis</persName>
 <persName key="w6zw3s78">Robert Wills</persName>
 <persName key="w6zw3s78">R. Wills</persName>
+([Rr]obert Willis'?|[Rr]obert Willis['s]?|[Rr]. Willis'?|[Rr]. Willis['s]?)
 
 # Joseph Warrington
 <persName key="w6bv9xp3">Joseph Warrington</persname>
 <persName key="w6bv9xp3">Joseph Warrington's</persname>
 <persName key="w6bv9xp3">Warrington's</persname>
+([Jj]oseph [Ww]arrington's?|[Jj]oseph Warrington['s]?|[Jj]. Warrington's?|Joseph Warrington?|J. Warrington?)
 
 # Aaron Wills/Aaron Willis
 <persName key="w6r525r2">Aaron Wills’s</persName>
@@ -36,41 +43,53 @@
 <persName key="w6r525r2">A. Wills</persName>
 <persName key="w6r525r2">A. Willis</persName>
 <persName key="w6r525r2">A. Wilis</persName>
+(Aaron Wills['s]?|Aaron Willis['s]?)
 
 # Joshua Lippincott
 <persName key="w6jb6xn6">Joshua Lipincott</persName>
 <persName key="w6jb6xn6">Joshua Lippincott</persName>
 <persName key="w6jb6xn6">J. Lippincott</persName>
+([Jj]oshua Lippincot[pincot]['s]?|[Jj]. Lippincot['s]?)
 
 # Elizabeth Collins
 <persName key="w6hj799d">Elizabeth Collins</persName>
 <persName key="w6hj799d">E. Collins?</persName>
+([Ee]lizabeth Collins['s]?|[Ee]. Collins['s]?)
 
 # William Penn
 <persName key="w6p55q0b">William Penn</persName>
 <persName key="w6p55q0b">Penn</persName>
+(W. Penn['s]?|William Penn['s]?)
 
 # Richard Jordan
 <persName key="w6gq882n">Richard Jordan</persName>
 <persName key="w6gq882n">R. Jordan?</persName>
+([Rr]ichard Jordan['s]?|R. Jordan['s]?)
 
 # John Cox
 <persName key="w6b01gx6">John Cox</persName>
 <persName key="w6b01gx6">John Coxe</persName>
+(John Cox['s]?|J. Cox['s]?)
 
 # John Reeves
 <persName key="w6x16z80">John Reeves</persName>
 <persName key="w6x16z80">J. Reeves?</persName>
 <persName key="w6x16z80">John Reeve</persName>
+(John Reeves['s]?|J. Reeves['s]?)
 
 # Benjamin Swett
 <persName key="w6zk9cxf">Benjamin Swett</persName>
 <persName key="w6zk9cxf">B. Swett</persName>
+(Benjamin Swett['s]?|B. Swett['s]?)
 
 # Mary Swett
 <persName key="w68d3sbk">Mary Swett</persName>
 <persName key="w68d3sbk">his wife</persName>
+([Mm]ary Swett['s]?|M. Swett['s]?)
+(his wife['s]?) #need to manually check with this one
 
 # Esther Collins
 <persName key="w6gj3q0h">Esther Collins</persName>
 <persName key="w6gj3q0h">E. Collins?</persName>
+([Ee]sther Collins['s]?)
+(E. Collins['s]?)#need to check manually with this one
