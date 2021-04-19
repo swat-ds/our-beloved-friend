@@ -38,12 +38,14 @@
 ([Jj]oseph [Ww]arrington's?|[Jj]oseph Warrington['s]?|[Jj]. Warrington's?|Joseph Warrington?|J. Warrington?)
 
 # Aaron Wills/Aaron Willis
-<persName key="w6r525r2">Aaron Wills’s</persName>
+<persName key="w6r525r2">Aaron Wills's</persName>
 <persName key="w6r525r2">Aaron Wills</persName>
 <persName key="w6r525r2">A. Wills</persName>
 <persName key="w6r525r2">A. Willis</persName>
 <persName key="w6r525r2">A. Wilis</persName>
 (Aaron Wills['s]?|Aaron Willis['s]?)
+
+Aaron Will[i]?['s]?
 
 # Joshua Lippincott
 <persName key="w6jb6xn6">Joshua Lipincott</persName>
@@ -93,3 +95,5 @@
 <persName key="w6gj3q0h">E. Collins?</persName>
 ([Ee]sther Collins['s]?)
 (E. Collins['s]?)#need to check manually with this one
+
+A0011518 replaced
