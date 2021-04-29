@@ -93,7 +93,7 @@ Regular expression: John Reeve[s]?['s]?|J. Reeve[s]?['s]?
 Replace with: `<persName key="w6x16z80">John Reeves</persName>` or `<persName key="w6x16z80">J. Reeves?</persName>`
 
 # Benjamin Swett
-Regular expression: Benjamin Swett['s]?|B. Swett['s]?
+Regular expression: Ben[jamin]? Swett['s]?|B. Swett['s]?
 Replace with: `<persName key="w6zk9cxf">Benjamin Swett</persName>` or `<persName key="w6zk9cxf">B. Swett</persName>`
 
 # Mary Swett
@@ -102,6 +102,27 @@ Replace with: `<persName key="w68d3sbk">Mary Swett</persName>` or `<persName key
 Need to manually check for Mary Swett because she almost always appears in mention with her husband as "his wife"
 
 # Esther Collins
-Regular expression: Esther Collin[s]?['s]?|E. Collin[s]?['s]?
+Regular expression: Esther Collin[s]?['s]?|E. Collin[s]?['s]?|Esther Roberts['s]?
 Replace with: `<persName key="w6gj3q0h">Esther Collins</persName>` or `<persName key="w6gj3q0h">E. Collins?</persName>`
 Need to manually check this one so as not to confuse her with Esther Hunt
+
+# 4.19.2021 - Second round of tagging
+# Thomas Scattergood
+Regular expression: Thomas Scattergood['s]?|T. Scattergood['s]?
+Replace with: `<persName key="w6nk4g54">Thomas Scattergood</persName>` or `<persName key="w6nk4g54">T. Scattergood</persName>`
+
+# Isaac Andrews ~1715, died 1775
+Regular expression: Isaac Andrew['s]?|I. Andrew['s]?
+Replace with: `<persName key="w63z8z1g">Isaac Andrews</persName>`
+
+# Isaac Andrews 1749 to 1820
+Regular expression: Isaac Andrew['s]?|I. Andrew['s]?
+Replace with: `<persName key="w6zx2b7v">Isaac Andrews</persName>`
+Almost all instances of the name after January 1 1776 should be the son
+
+# Solomon Gaskill
+Regular expression: Solomon Gaskill['s]?|S. Gaskill['s]?
+Replace with: `<persName key="w63s1j4g">Solomon Gaskill </persName>` or `<persName key="w63s1j4g">S.  Gaskill</persName>`
+
+# Dates
+Regular expression: when="[^"]*?[a-z:][^"]*?"
