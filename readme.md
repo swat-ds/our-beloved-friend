@@ -22,7 +22,7 @@ Eventually, Nabil and Roberto pointed me to regular expressions, which are a muc
 However, because of some issues (most likely because "'" was often used instead of "'") I was having difficulty actually implementing regular expressions. After replacing all of the incorrect apostrophes with the standard ' one, I expect the following regular expressions to work:
 
 # Esther Hunt
-Regular expression: Esther Hunt['s]?|E. Hunt['s]?
+Regular expression: Esther Hunt['s]?|E. Hunt['s]?  
 Replace with: `<persName key="w6wx87x7">Esther Hunt</persName>`
 
 Regular expression: [Mm]y wife['s]?
