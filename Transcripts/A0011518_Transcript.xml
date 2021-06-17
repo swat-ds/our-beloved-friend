@@ -1,3 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text>
+<body>
 <pb n="A0011518_001"/>
 {1773-03}
 <div type="entry" when="1773-03-01"><dateline><date when="1773-03-01">1st of Third Month, 1773.</date></dateline><p> About home mending etc.</p></div>
@@ -1676,3 +1680,5 @@
 <div type="entry" when="1777-01-31"><dateline><date when="1777-01-31">31.</date></dateline><p> About home. In this conference some Friends proposed to go to the governor for redress which was done and answered their expectation. Next morning the thing opened on my mind after this manner: sacred records informs us that it is not in man to direct his steps, that the Ethiopian cannot change his skin nor the leopard his spots,<note resp="transcr">Jeremiah 13: 23</note> that the preparation of the heart and answer of the tongue is after the Lord and that a broken heart<note resp="transcr">Proverbs 16:1</note> and a contrite spirit he will not despise.</p>
 <p>[Left marginal note] I have heard saying If the Lord [is] for us no [ma]tter who is against us.<note resp="transcr">Romans 8:31</note></p>
 <p>I have thought that if our minds were turned this way in true humility and resignation our innocent conduct and deportment would be our best advocate in the most trying season. Though our tongues were quite silent there would be a powerful language in our innocent conduct and deportment and this I believe would do more for us than the best prepared arguments of men's invention.</p></div>
+</body></text>
+</TEI>

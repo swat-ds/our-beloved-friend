@@ -1,3 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text>
+<body>
 <pb n="A0011530_001"/>
 {1818-05}
 <div type="entry" when="1818-05-13"><dateline><date when="1818-05-13">13 of the 5 month 1818.</date></dateline><p> We have had a very cold winter and but very little snow. The winter grain very in many places was much killed and froze out and very cold backward spring yet now a very wet time and several heavy thunder showers.  The fruit trees in full bloom, all sorts as white as snow, seldom ever the like seen of the abundance of blossoms.  </p></div>
@@ -108,3 +112,5 @@ such improvements and accommodations and conveniences as there are now to be see
 <p>Thomas Kite of Philadelphia was at our meeting and I thought did famously and worthily; a young minister but lately recommended and most rapidly improved. He came here to see us sixth day and we had a setting and he made a notable prayer and I thought it ended for the better.</p></div>
 <div type="entry" when="1818-09-16"><dateline><date when="1818-09-16">16 of the 9 month 1818.</date></dateline><p> was our select meeting at Haddonfield. First part very poor and low. All quite shut up but at last it ended lively and savor to my satisfaction.</p></div>
 <div type="entry" when="1818-09-17"><dateline><date when="1818-09-17">17.</date></dateline><p> We all went to our quarterly meeting and a precious highly favored time I thought it was throughout.  <persName key="w6gq882n">Richard Jordan</persName> was raised in great eminence, life and authority and I thought I seldom if ever seen a more open time for labor and close plain dealing in dipping into the state of meetings. <persName key="w6gq882n">Richard Jordan</persName> expressed he thought it was a favored, owning time of close searching labor. Oh how does mercy and goodness follow us. </p></div>
+</body></text>
+</TEI>

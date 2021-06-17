@@ -1,3 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text>
+<body>
 <pb n="A0011521_001"/>
 Memorandum
 Diary of John Hunt
@@ -1547,3 +1551,5 @@ After meeting I went to John Glovyer's and he went with me to settle some busine
 <div type="entry" when="1792-04-06"><dateline><date when="1792-04-06">6.</date></dateline><p> Was monthly meeting and I think it was a lively good meeting some matters respecting passing meeting and marrying very lively and profitably spoken to.<note resp="transcr">Evesham Monthly Meeting minutes, April 1792.  ‘Nathan Heritage produced an Acknowledgment including the former charges heretofore alleged against him, with the addition of Gaming or Gambling which being read and deliberately attended to, it appeared, the united sense that the same be continued to next, or a future, Meeting under care of John Hunt and Jacob Hollinshead."</note></p></div>
 <div type="entry" when="1792-04-07"><dateline><date when="1792-04-07">7.</date></dateline><p> About plow making.</p></div>
 <div type="entry" when="1792-04-08"><dateline><date when="1792-04-08">8.</date></dateline><p> Was First Day. Our meeting hurt by a restless spoke and going out and in amongst the youth, but got more settled and ended well I believe.</p></div>
+</body></text>
+</TEI>

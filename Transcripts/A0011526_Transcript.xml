@@ -1,3 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text>
+<body>
 <persName key="w6zk9cxf">Benjamin Swett</persName><pb n="A0011526_001"/>
 <div type="entry" when="1814-11-01">
 <p>Winter weather.</p>
@@ -1071,3 +1075,5 @@ Seventh Day, 25th of the Eleventh Month, 1815. Heard of the death of Rebeckah Ro
 <p>Part of the journal from 7th month 1823 to 6th month 1824 is wanting.</p>
 <p>[Loose paper in back]</p></floatingText>
 <pb n="A0011526_091"/>
+</body></text>
+</TEI>

@@ -1,3 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text>
+<body>
 <pb n="A0011522_001"/>
 [scrap paper, practice lettering]
 <pb n="A0011522_002"/>
@@ -2629,3 +2633,5 @@ Job Roberts
 A true copy [again in formal exact hand]
 [same signature as on the certificate, illegible]
 <pb n="A0011522_109"/>
+</body></text>
+</TEI>

@@ -1,3 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text>
+<body>
 <pb n="A0011532_001"/>
 {1820-01}
 <div type="entry" when="1820-01-16"><dateline><date when="1820-01-16">16th of the First Month, 1820.</date></dateline><p> First Day. I went to our meeting, concluding [that] it would be right for me to quite shut up, and so we sat till late. Then I stood up in diffidence and fear, thinking I would only express a few sentences without I should find strength to go through, and was helped evidently to good satisfaction. Oh, what a favor continued!</p></div>
@@ -182,3 +186,5 @@ See [Lindley Murray's] <emph rend="italic">Power of Religion on the Mind</emph>,
 <div type="entry" when="1820-07-26"><dateline><date when="1820-07-26">26.</date></dateline><p> Finished getting hay (grow[s] dry again). As far as I can learn, it is general a healthy time, both in the city and country. But our country is getting full of people, and our doctors still seem to have full employ. A fine rain again.</p></div>
 <div type="entry" when="1820-07-27"><dateline><date when="1820-07-27">27.</date></dateline><p> Fifth Day. At our meeting. So poorly I was hardly able to sit meeting or get home. Had a spell of vomiting and very sick stomach, but soon got better. Our daughter came from market and tells how low cheese, butter, and eggs and all things are and meat of all sorts. [People] have to bring it back; no sale at all for it. Her mother said, “I never heard the like, though near eighty.”</p>
 <p>[marginal note] We hear tell of the hail [that] lately destroyed fields of Indian corn near Woodstown. It must have been very violent to destroy Indian corn now it is got so big.</p></div>
+</body></text>
+</TEI>

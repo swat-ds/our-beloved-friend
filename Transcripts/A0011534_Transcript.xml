@@ -1,3 +1,6 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text>
 <pb n="A0011534_001"/>
 <front><div><p>
 <l>Benjamin Hunt</l>
@@ -5,6 +8,7 @@
 <l>12 of 6th [month] 1822</l>
 <l>1822 - 1823</l>
 </p></div></front>
+<body>
 <pb n="A0011534_002"/>
 {1822-06}
 <div type="entry" when="1822-06-12"><dateline><date when="1822-06-12">12 of the Sixth Month, 1822;</date></dateline><p> My daughter Abigail and I went to select quarterly meeting at Evesham and a poor, dull time it was. Weather very warm and we seemed to be overwhelmed with a lethargic stupor far from experiencing anything like sitting together in heavenly places or experiencing the powerful overshadowing of the Holy Ghost among us. <persName key="w6gq882n">Richard Jordan</persName> and divers others able ministers but chiefly shut up or nothing said so as to raise the life in the meeting.</p></div>
@@ -257,3 +261,5 @@ through the valley of the shadow of death yet will I fear no evil<note resp="tra
 <pb n="A0011534_057"/>
 <div type="entry" when="1823-04-10"><dateline><date when="1823-04-10">10th of the Fourth Month, 1823.</date></dateline><p> Fifth Day I ventured out to meeting though hardly able it was our Monthly Meeting – Sarah Cresson was there and shewed her zeal for the Lord had extensive acceptable service. Humility she said was the true Christian's everyday dress. My mind was impressed at the same time with the same in substance I was viewing the vast importance of true vital religion and the blessed fruits and effects and on the other side the direful fruits and effect where it was suffered to go to decay where people cast off all religious restraint and pursue lying vanities and forsake their own mercies<note resp="transcr">Jonah 2:8</note> and the grievous humbling things sorrow of heart and remorse of conscience destruction and dissolation that often overtake poor mortals not only individuals but even whole nation: that which I have planted will I pluck up even this whole nation oh to think of the blessed safe happy glorious state of the primitive Christians but did any either individuals or whole societies of people ever come to experience the precious fruits and effects of true religion without – humility the humble the Lord teaches of his ways and dwells with them but beholds the proud afar off. In the afternoon I thought there was some life and savor to good satisfaction – I dined with Sarah Cresson at Joseph Matlack's – seen an account in the news of the great storm about two weeks ago. I said it would be a terrible time with people on the water and so it is said abundance of vessels on all our coasts great and small and many lives were lost but the destruction amongst the vessels was such as is very seldom heard of the vast number great and small being lost away and wrecked.</p>
 <p>[I have?] seen a vast large account of what they call a work of grace amongst the Baptists, Methodists and Presbyterians. I fear they will fill the world (as Stephen Crisp says) with a sort of Christians that want acceptance with God. And then what is all the profession of religion in the world good for without his acceptance and S. Crisp says their doings has been the downfall of Christianity in the present: it is surprising to think of their great inventions – I believe the Devil does not care how much religion people have if they keep clear of humility and the cross.</p></div>
+</body></text>
+</TEI>

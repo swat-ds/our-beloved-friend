@@ -1,3 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text>
+<body>
 <pb n="A0011237_01"/>
 {1820-07}
 Self the greatest deceiver and greatest thief and greatest enemy.
@@ -121,10 +125,10 @@ That you were born to die.
 {1820-12}
 <div type="entry" when="1820-12-01"><dateline><date when="1820-12-01">1 of the Twelfth Month Sixth day.</date></dateline><p> At our select meeting a lively zeal appeared, and I hope some savor. Whilst I was making ready another and another and another stepped in, which has often been the case, so that I had not full satisfaction, although not much cause of complaint.</p></div>
 <div type="entry" when="1820-12-03"><dateline><date when="1820-12-03">3.</date></dateline><p> Was First Day. Came off pretty well, some say rather more life and savor than common.</p></div>
-<div type="entry" when="1820-12-04"><dateline><date when="1820-12-04">4.</date></dateline><p> Our little granddaughter, Bulah John's daughter, was buried. A very stormy day. My wife nor I did not go to its burial. It was a very fine, healthy child, about two years and a half old. Died very suddenly with the hives or stoppage in its stomach. See <emph rend="italic">Memoirs</emph> of Anthony Benezet, page 123.  He says: I desire to verify in myself in all cases the doctrine of one of the copies I use in my school:</p>
-Just be thy thoughts and all thy words sincere,
-And know no wish but what the world may hear.
-
+<div type="entry" when="1820-12-04"><dateline><date when="1820-12-04">4.</date></dateline><p> Our little granddaughter, Bulah John's daughter, was buried. A very stormy day. My wife nor I did not go to its burial. It was a very fine, healthy child, about two years and a half old. Died very suddenly with the hives or stoppage in its stomach. See <emph rend="italic">Memoirs</emph> of Anthony Benezet, page 123.  He says: I desire to verify in myself in all cases the doctrine of one of the copies I use in my school:
+<l>Just be thy thoughts and all thy words sincere,</l>
+<l>And know no wish but what the world may hear.</l>
+</p>
 <p>They say of A. Benezet, he was favored to have on continually the armor of humility and protested by it none of these things exalted his depending spirit. Page 97 he speaks of the poisonous idolatry of self, so apt to creep in.</p></div>
 <pb n="A0011237_17"/>
 <div type="entry" when="1820-12-07"><dateline><date when="1820-12-07">7th of the Twelfth Month, 1820.</date></dateline><p> At our Monthly Meeting, and if I am not mistaken an open, owning, good time it was. Many very pertinent, lively remarks were made – yet I was afraid some of our young ministers in the current over run the right landing place. </p></div>
@@ -244,3 +248,5 @@ As one says, I have now lost what words cannot compensate: My God has withdrawn 
 <div type="entry" when="1821-08-02"><dateline><date when="1821-08-02">2nd of the Eighth Month, Fifth Day.</date></dateline><p> At our meeting very dull and heavy. Weather very dry and hot here. It seems like a threatening, awful time here, although there has been rain on each side and all around us. It is a pinching time of drought and threatens the cutting of the Indian corn and buckwheat in our parts. We read the Lord caused it to rain upon one city and not upon another city.<note resp="transcr">Amos 4:7</note></p>
 <p>See <emph rend="italic">Christian Magazine</emph>, page 239: He loves Christ not at all who loves him not above all. They are justly punished that abuse lawful things, but they are most justly punished that use unlawful things. Thus Lucifer fell from Heaven, thus Adam lost his paradise. The life of man is the middle between angels and beasts. If man takes pleasure in carnal things, he is compared to beasts; but if he delight in spiritual things, he is suited with angels. How are some ever brothers of one family raised up and some degraded and cast down below the beasts, wallowing in their pollutions and drunkenness. Many shorten their days. What was that which Moses told the Children of Israel was not a vain thing: it is your life and by it ye shall prolong your days. If religion is worth any thing, it is worth all things. If it can bring us any goodness, it can bring all goodness we stand in need of, so is the one thing needful. But see Romans 1st and 31: without understanding covenant breakers, without natural affections, implacable and unmerciful. See what a miserable degraded state it is possible for mankind to fall into.</p>
 <p>As you love your souls, beware of the world – it hath slain its thousands and tens of thousands. What ruined Lot's wife? The world. What ruined Judas? The world. What ruined Simon Magus? The world. What ruined Demas? The world. And what shall it profit a man if he gain the whole world and lose his own soul?<note resp="transcr">Mark 8:36</note> If nature is indulged, grace, as to sense of it, takes its flight. Is not nature greatly indulged in these days? How gloomy the prospects.</p></div>
+</body></text>
+</TEI>

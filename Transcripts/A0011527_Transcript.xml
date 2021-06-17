@@ -1,3 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text>
+<body>
 <pb n="A0011527_001"/>
 <table>
 <row>
@@ -109,3 +113,5 @@ Samuel Smith spoke a few words as the opening of this sitting the meeting then p
 <div type="entry" when="1814-05-01"><dateline><date>2nd nigh</date></dateline><p> went with him in his carriage to Byberry Monthly Meeting. After meeting took dinner at Asa Walmsley's and lodged at father-in-law's again.</p></div>
 
 <div type="entry" when="1814-05-02"><dateline><date>Fourth Day morning</date></dateline> <p>having one of his creatures I rode to Horsham Monthly Meeting when</p> </div>
+</body></text>
+</TEI>

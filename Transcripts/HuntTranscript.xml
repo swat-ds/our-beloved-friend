@@ -1,3 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text>
+<body>
 <journal id="A0011517" title="John Hunt Journal, 1770 7mo. 1 - 1773 1mo. 31" <journal id="A0011517" title="John Hunt Journal, 1770 7mo. 1 - 1773 1mo. 31" date="1770-1773">
 <pb n="A0011517_001"/>
 Vol's of John Hunt's Diary 1770
@@ -14712,4 +14716,5 @@ Fifth Day. At our meeting very small and very poor and silent a busy time gettin
 {1824-10}
 7th of the Tenth [sic. Ninth] Month 1824.<note resp="transcr">Ann Quicksall’s death, cited in the passage below, was in 9th month 11th 1824, not 10th month; she was aged 33 and was buried in Friends burial ground in Evesham. John Hunt died less than two weeks later.</note> Was our Monthly Meeting rather smaller than common but it was a strengthening, favored time to me if I am not mistaken both in the first and last meeting for discipline although in answering our queries as usual want of life and savor: superficial dry formality trifling indifferency and loathsome lukewarmness now when the fruits of the field of every sort are in abundance especially apple and peaches more than can be used and abundance rot on the ground we hear of much sickness and frequent deaths and in particular amongst the youth one about nineteen near Cropwell died with a fever with about three days illness divers such instances there have been lately of lads or young men suddenly snatched away in their full strength and divers we hear of laying now very ill but it seems to make very little impressions on those left behind.
 10 of the Tenth [sic. Ninth] Month. First Day. We went to the burial of Ann Quicksil at Hinchman Haines’s. She died of a fever with a few days illness about twenty years of age or more she was a very hopeful minister of an unblemished character she preached to us at my son John’s burial last of the Sixth Month. Sarah Haines was also there in usual health now both gone to their long homes and room to hope they are gone to a better world. Hinchman Haines and myself had something to say to the people at the house and Ebenezer Robert and Hannah Warrington took up most of the time at meeting. The day ended to my satisfaction in a good degree: there was another burial of an ancient woman at the same time about a quarter of a mile off.
-</journal>
+</journal></body></text>
+</TEI>

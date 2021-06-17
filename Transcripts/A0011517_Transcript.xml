@@ -1,3 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text>
+<body>
 <pb n="A0011517_001"/>
 Vol's of John Hunt's Diary 1770
 <pb n="A0011517_002"/>
@@ -1530,3 +1534,5 @@ This was the day I first gave up to say a few words in a public First Day meetin
 			my 1/2 ------------------------------ 0  -1 - 9
 			at pump ----------------------------- 0 - 4 -
  
+</body></text>
+</TEI>

@@ -1,3 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text>
+<body>
 <pb n="A0011519_001"/>
 {1776-12}
 <div type="entry" date="1776-12-24">
@@ -4130,3 +4134,5 @@ It may be ten or twelve years ago people in our parts went to great expense in b
 <div type="entry" when="1787-12-21"><dateline><date when="1787-12-21">21.</date></dateline><p> Went to Robert French's about pump [page missing]. Left Samme to finish.</p></div>
 <div type="entry" when="1787-12-22"><dateline><date when="1787-12-22">22.</date></dateline><p> Went to Long-a-Coming after a load of rails.</p></div>
 [No entries for January 1788]
+</body></text>
+</TEI>

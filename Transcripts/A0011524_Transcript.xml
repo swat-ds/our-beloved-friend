@@ -1,3 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text>
+<body>
 <pb n="A0011524_001"/>
 {1806-08}
 <div type="entry" when="1806-08-23"><dateline><date when="1806-08-23">[23rd 8th Month, 1806]</date></dateline><p> Everything we here enjoy changes, decays and comes to an end. The indulgence of harsh dispositions is the introduction of future misery.  Remember Trout[?] Haman all availed him nothing w[cut off]: Disturb in mind and hoss[?] t[cut off] Ended.</p>
@@ -26,3 +30,5 @@
 <l>That taketh a city: he that ruleth not his</l>
 <l>Spirit is like to a city whose walls are broken</l>
 <l>Down and without strength</l></quote>: says Solomon</p></div>
+</body></text>
+</TEI>

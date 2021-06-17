@@ -1,3 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text>
+<body>
 <pb n="A0011536_001"/>
 {1823-05}
 <div type="entry" when="1823-05-08"><p>Attended monthly meeting at Chester Moorestown the 8th of 5 Month 1823. Present: William Forster Jr. from S Monthly meeting of quarterly meeting held at Pool in 1918, England, <persName key="w6gq882n">Richard Jordan</persName>, William Evans from Philadelphia accompanied William Foster as did H. Haines etc.</p>
@@ -17,4 +21,5 @@
 {1823-04}
 <div type="entry" when="1823-04-29">George Haddon and his companion, a much older man from Indiana, was at Chester meeting on 3rd day the 29th of 4th month 1823.</p>
 <p>The subject of his discourse was the present was a time of much knowledge and a time of much inquiry after knowledge.</p>
-<p>He had an appointed meeting at Byberry the 23rd day of 1st month, 1824 a sixth day of the week, the whereon Eliza Stokes, daughter of Joseph and Rachel died about 2 o'clock PA.M. in the morning.</div>
+<p>He had an appointed meeting at Byberry the 23rd day of 1st month, 1824 a sixth day of the week, the whereon Eliza Stokes, daughter of Joseph and Rachel died about 2 o'clock PA.M. in the morning.</div></body></text>
+</TEI>

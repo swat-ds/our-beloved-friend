@@ -1,3 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text>
+<body>
 <pb n="A0011533_001"/>
 {1821-08}
 <div type="entry" when="1821-08-05"><dateline><date when="1821-08-05">5th of the Eighth Month, 1821.</date></dateline><p> First Day. A more lively, open, owning meeting than common, I believe – but I am very jealous and afraid of being deceived, as thousand and tens and hundreds of thousands and millions, I verily believe, are in their state as to religions. We have very deceitful hearts and a subtle, deceitful enemy to deal with, and of all deceivers self deception is the worst. How often is the caution repeated in Scripture: be ye not deceived, beware lest your hearts deceive you,<note resp="transcr">Deuteronomy 11:16</note> etc., etc.</p>
@@ -158,3 +162,5 @@ I might add James Nayler's words to these exercised deep travelers: days of mour
 <div type="entry" when="1822-01-22"><dateline><date when="1822-01-22">22.</date></dateline><p> Third Day, Thomas Grissel of Salem, State of Ohio, appointed a meeting. It was pretty full and he had sound doctrine and inquired what all we had heard had done for us etc. Not much animation; our people are used to hear sound doctrine: take heed how you hear [Mark 4:24] was the ancient caution.</p></div>
 <div type="entry" when="1822-01-23"><dateline><date when="1822-01-23">23.</date></dateline><p> Second Day. Thomas Story and George Keith both say to this effect that Quakerism, so called in derision, is no other than primitive Christianity revived in its ancient beauty after so long a night of gross darkness and apostasy.</p></div>
 [The manuscript covering the period from late January to mid June 1822 has not been located.  For an account of Hunt's life during this period, refer to the published version of the journal in <emph rend="italic">Friends Miscellany.</emph>]
+</body></text>
+</TEI>
