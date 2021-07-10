@@ -1,10 +1,10 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader></teiHeader>
 <text>
+<front><pb n="01" facs="sc203592"/>
+<docTitle><titlePart>Memorandum<lb/>
+Diary of John Hunt</titlePart></docTitle></front>
 <body>
-<pb n="01" facs="sc203592"/>
-Memorandum
-Diary of John Hunt
 <pb n="02" facs="sc203593"/>
 <div type="entry" n="1788-03-04"><head>March 1788</head><dateline><date when="1788-03-04">4th of the Third Month, 1788.</date></dateline><p> <persName key="w6wx87x7">My wife</persName>, Abigail Stokes and I visited Darling Conrow his family, he being afflicted with the loss of the use of his limbs and his wife requesting to be joined to Friends with her children. Then we visited S. Longstaff, a young woman who had made request. Then we visited Phebe Burr confined with the consumption. And I think it was a day of favor in a good degree especially the last night.</p></div>
 <div type="entry" n="1788-03-06"><dateline><date when="1788-03-06">6.</date></dateline><p> We visited our school and came off well though close plain dealing was necessary.</p>
@@ -133,7 +133,7 @@ We went to Joseph Kaighn's to lodge. Had a sitting with his brother's family in 
 <div type="entry" n="1788-06-26"><dateline><date when="1788-06-26">26.</date></dateline><p> Went to the burial of John Hollinshead which was a satisfactory favored time with me at the grave. <persName key="w6n05bth">Joseph</persName> and <persName key="w6ph2gz9">Rebecca Roberts</persName>, Abraham Stokes and <persName key="w6wx87x7">my wife</persName> and I went to Samuel Stokes. Had a sitting with the family which was I think in a good degree a favored time (and open). This John Hollinshead had got in debt, involved in difficulty, gave way to discouragement and so to despair and thought he was not worthy of the necessaries of life and so refused to eat and so starved three weeks and took nothing for part of the time but what they forced down him but eat a little before he died. It was thought that serving constable office was a great hurt to him. I think I scarcely ever saw a poorer corpse. He complained of no other disorder but trouble of mind. Starved to death.</p>
 <p>[Left marginal note sideways] In 1794 L. Lamb's son F. Haines died with a pain in his toe mortified.</p></div>
 <pb n="10" facs="sc203601"/>
-<div type="entry" n="1788-06-27"><dateline><date when="1788-06-027">27.</date></dateline><p> About home at work at cheese presses.</p></div>
+<div type="entry" n="1788-06-27"><dateline><date when="1788-06-27">27.</date></dateline><p> About home at work at cheese presses.</p></div>
 <div type="entry" n="1788-06-29"><dateline><date when="1788-06-29">29.</date></dateline><p> First Day at our meeting. A large crowded meeting I hope we came off pretty well. <persName key="w6wx87x7">My wife</persName> thinks so. What a favor to be preserved above contempt.</p></div>
 <div type="entry" n="1788-06-30"><dateline><date when="1788-06-30">30.</date></dateline><p> Samme and I went to Mount Holly to make a pump for William Rossel 14 [feet] and a half long the new part, spliced 8 feet of the old one to it, comes to 34 s[hillings] and 7 which he paid off.</p></div>
 <div type="entry" n="1788-07-01"><head>July 1788</head><dateline><date when="1788-07-01">1st of Seventh Month 1788.</date></dateline><p> Went to Jacob Shavers in Holly to make him a pump 14 and a half long, paid for 13 now. Finished. He was not at home.</p></div>
@@ -248,7 +248,7 @@ ticles of peace drawn and sent to the king who consented to them and sent answer
 <div type="entry" n="1788-08-12"><dateline><date when="1788-08-12">12.</date></dateline><p> Finished 23 feet, 6 [inches]. Paid all.</p></div>
 <div type="entry" n="1788-08-13"><dateline><date when="1788-08-13">13.</date></dateline><p> I went the General meeting at Woodbury which was large and many ministering Friends was there. Daniel Offley and <persName key="w6028wf4">Nicholas Waln</persName> was chief speakers. I thought the meeting ended solid and pretty well.</p></div>
 <div type="entry" n="1788-08-14"><dateline><date when="1788-08-14">14.</date></dateline><p> I was at Newtown Meeting appointed for Hannah Reeve and Deborah Basit who had a great deal to say.</p></div>
-<div type="entry" n="1788-08-15/1788-08-16"><dateline><date when="1788-08-15 /1788-08-16">15 and 16.</date></dateline><p> About home wet weather.</p></div>
+    <div type="entry" n="1788-08-15/1788-08-16"><dateline><date from="1788-08-15" to="1788-08-16">15 and 16.</date></dateline><p> About home wet weather.</p></div>
 <pb n="20" facs="sc203611"/>
 <div type="entry" n="1788-08-17"><dateline><date when="1788-08-17">17th of the Eighth Month, 1788.</date></dateline><p> Was First Day. I went to Cropwell Meeting. <persName key="w6zw3s78">Robert Willis</persName> was there and I thought we had a smart lively good meeting. After meeting we went to Samuel Burrough's to dine. <persName key="w6jb6xn6">Joshua Lippincott</persName>, <persName key="w6wt9jhx">Enoch Evans</persName> and wife was there. We had a sitting which as far as I know was pretty well. Robert had a pretty deal to say.</p></div>
 <div type="entry" n="1788-08-18"><dateline><date when="1788-08-18">18.</date></dateline><p> About home.</p></div>
@@ -1285,7 +1285,7 @@ After meeting I went to John Glovyer's and he went with me to settle some busine
 <div type="entry" n="1791-09-12"><dateline><date when="1791-09-12">12.</date></dateline><p> About home making a plow for [Crossed out] Joseph Coles. </p></div>
 <div type="entry" n="1791-09-14"><dateline><date when="1791-09-14">14.</date></dateline><p> I went to Woodbury Monthly Meeting, but Samme being so ill I did not get there till very late this afternoon. I mended John Tatham's pump and I went to John Jesup's on some urgent business.</p></div>
 <div type="entry" n="1791-09-15"><dateline><date when="1791-09-15">15.</date></dateline><p> Came home.</p></div>
-<div type="entry" n="1791-09-16/1791-09-17"><dateline><date when="1791-09-16/1791-09- 17">16 and 17.</date></dateline><p> I was very poorly afflicted with a boil and fever.</p></div>
+    <div type="entry" n="1791-09-16/1791-09-17"><dateline><date from="1791-09-16" to="1791-09-17">16 and 17.</date></dateline><p> I was very poorly afflicted with a boil and fever.</p></div>
 <div type="entry" n="1791-09-18"><dateline><date when="1791-09-18">18.</date></dateline><p> Was First Day. I was at our meeting and think there was a good degree of quiet and orderly stillness over the meeting and I hope it ended pretty well. This afternoon <persName key="w6c82qz0">Joshua Evans</persName> came here and lodged.</p></div>
 <div type="entry" n="1791-09-19"><dateline><date when="1791-09-19">19.</date></dateline><p> We went to the burial of Thomas Dudley's daughter about 18 years. We had a sitting after the burial and a good deal was said, but it seemed to be a hard laborious time and the life wanting. Many there who seldom ever get to meeting, settled on their Lees.</p></div>
 <div type="entry" n="1791-09-20"><dateline><date when="1791-09-20">20.</date></dateline><p> I went after a log for a pump instead of going to meeting.</p></div>
