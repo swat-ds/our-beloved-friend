@@ -5,18 +5,37 @@ James Truitt
 July 2021
 """
 
-def loadXml():
-	pass
+from glob import glob
+import xml.etree.ElementTree as ET
+
+def loadData():
+	print("Loading XML data...")
+	# Get list of TEI filenames
+	filenames = glob("pid-tei/*.xml")
+
+	# Initialize container for xml data
+	xmls = []
+
+	# Loop over filenames, extracting the XML data in each & adding it to xmls
+	for filename in filenames:
+		print("Reading {}".format(filename + "..."), end="")
+		xml = ET.parse(filename)
+		xmls.append(xml)
+		print("\tdone")
+
+	print("XML data successfully loaded!")
+	return xmls
 
 def getBoolCooccurrences(tei):
-	pass
+	return []
 
 def getCountCoocurrences(tei):
-	pass
+	return []
 
 def main():
+	print("\n")
 	# Load the TEI data from files
-	teis = loadXml()
+	teis = loadData()
 
 	# Initialize a holder for our data
 	data = []
@@ -28,5 +47,7 @@ def main():
 
 		# Add that set to data holder
 		data += collocs
+		
+	print("\n")
 
 main()
