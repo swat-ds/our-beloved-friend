@@ -73,6 +73,12 @@ def main():
 		# Add that set to data holder
 		data += collocs
 
+	# Create a parallel list of numbers of names per entry
+	# lengths = []
+	# for entry in data:
+	# 	lengths.append(len(entry))
+	# print(lengths)
+
 	# Filter entries without names out of data
 	# (loop over list backward, removing empty lists)
 	i = len(data)
@@ -82,10 +88,42 @@ def main():
 			del data[i]
 
 
-	# Calculate statistics
+	#### Calculate some statistics #####
 
-	# Create a corresponding list if lengths
+	# Loop over entries to create tally of names
+	namecounts = {}
+	for entry in data:
+		for name in entry:
+			if name in namecounts.keys():
+				namecounts[name] += 1
+			else:
+				namecounts[name] = 1
 
+	nameList = list(namecounts.keys())
+
+	## Create cooccurrence matrix##
+
+	# Initialize matrix
+	matrix = [[0 for i in nameList] for j in nameList]
+
+	# Loop over data and add to matrix
+	for entry in data:
+		for name1 in entry:
+			mainIndex1 = nameList.index(name1)
+			entryIndex = entry.index(name1)
+			for name2 in entry[entryIndex:]:
+				mainIndex2 = nameList.index(name2)
+				matrix[mainIndex1][mainIndex2] += 1
+
+	# Print matrix
+	for i in nameList:
+		print("_"+i, end="")
+	print("")
+	for i in range(len(nameList)):
+		print(nameList[i], end="_")
+		for k in range(len(nameList)):
+			print(matrix[i][k], end="_")
+		print("")
 	print("\n")
 
 main()
