@@ -27,7 +27,32 @@ def loadData():
 	return xmls
 
 def getBoolCooccurrences(tei):
-	return []
+	# define namespace
+	ns = {'x':'http://www.tei-c.org/ns/1.0'}
+
+	# Get root element of tei
+	root = tei.getroot()
+
+	# Get iterable of divs
+	body = root[1].find("x:body", ns)
+	divs = body.iterfind("x:div", ns)
+
+	# Create container for entries
+	entries = []
+
+	# Loop over divs, extracting persName tags
+	for div in divs:
+		# Create a container for the persNames
+		entryNames = []
+		#print(div.find('{http://www.tei-c.org/ns/1.0}p'))
+		for para in div.iterfind('{http://www.tei-c.org/ns/1.0}p'):
+			for name in para.iterfind('{http://www.tei-c.org/ns/1.0}persName'):
+				if name.attrib["key"] in entryNames:
+					continue
+				else:
+					entryNames.append(name.attrib["key"])
+		entries.append(entryNames)
+	return entries
 
 def getCountCoocurrences(tei):
 	return []
@@ -47,7 +72,20 @@ def main():
 
 		# Add that set to data holder
 		data += collocs
-		
+
+	# Filter entries without names out of data
+	# (loop over list backward, removing empty lists)
+	i = len(data)
+	while i > 0:
+		i += -1
+		if len(data[i]) == 0:
+			del data[i]
+
+
+	# Calculate statistics
+
+	# Create a corresponding list if lengths
+
 	print("\n")
 
 main()
