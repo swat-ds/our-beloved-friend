@@ -100,30 +100,52 @@ def main():
 				namecounts[name] = 1
 
 	nameList = list(namecounts.keys())
+	nameList.sort()
 
-	## Create cooccurrence matrix##
+	## Create cooccurrence matrix ##
 
-	# Initialize matrix
-	matrix = [[0 for i in nameList] for j in nameList]
+	# # Initialize matrix
+	# matrix = [[0 for i in nameList] for j in nameList]
+	#
+	# # Loop over data and add to matrix
+	# for entry in data:
+	# 	for name1 in entry:
+	# 		mainIndex1 = nameList.index(name1)
+	# 		entryIndex = entry.index(name1)
+	# 		for name2 in entry:
+	# 			mainIndex2 = nameList.index(name2)
+	# 			matrix[mainIndex1][mainIndex2] += 1
+	#
+	# # Print matrix
+	# for i in nameList:
+	# 	print("_"+i, end="")
+	# print("")
+	# for i in range(len(nameList)):
+	# 	print(nameList[i], end="_")
+	# 	for k in range(len(nameList)):
+	# 		print(matrix[i][k], end="_")
+	# 	print("")
 
-	# Loop over data and add to matrix
-	for entry in data:
-		for name1 in entry:
-			mainIndex1 = nameList.index(name1)
-			entryIndex = entry.index(name1)
-			for name2 in entry[entryIndex:]:
-				mainIndex2 = nameList.index(name2)
-				matrix[mainIndex1][mainIndex2] += 1
-
-	# Print matrix
+	# Create a list of name pairs
+	namePairs = {}
 	for i in nameList:
-		print("_"+i, end="")
-	print("")
-	for i in range(len(nameList)):
-		print(nameList[i], end="_")
-		for k in range(len(nameList)):
-			print(matrix[i][k], end="_")
-		print("")
+		index = nameList.index(i)
+		for k in nameList[index+1:]:
+			key = i +'\t'+ k
+			namePairs[key] = 0
+
+	keys = list(namePairs.keys())
+	# keys.sort()
+
+	# Loop over name-pairs, counting their occurrence in the data
+	for pair in keys:
+		for entry in data:
+			# Check to see if both halves of the key occur in this entry
+			if pair[:8] in entry and pair[-8:] in entry:
+				namePairs[pair] += 1
+		if namePairs[pair] > 0:
+			print(pair,'\t',namePairs[pair])
+
 	print("\n")
 
 main()
